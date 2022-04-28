@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAqxf5mgk2aUq3iuxMQQmPNAAAAAACAAAAAAAQZgAAAAEAACAAAAA5uTOo8dg6PQvIg619Fth7H+52mfODE7T6RueUj/SVoAAAAAAOgAAAAAIAACAAAAC66j7I+rPIZIltVNJlxnyFVQ6aoFwwHNjfJV4k7p7/XyAAAAC6mUVmVjQ/Q/vTLh61IuGKgKA+ojEsrTaJdhnw2/TC1kAAAAAhrVSB1Ox4hffkX0WBuU5wU7wauTEzt0y9EpT8cEeE9vjFKsdbYfaeFFvfHOB0s8NdjTa/zYIC1Z8AzFxbwowl</EncryptedPassword>
+    <_PublishTargetUrl>ftp://Somee</_PublishTargetUrl>
+    <History>False|2022-04-21T00:38:45.9979752Z;</History>
+  </PropertyGroup>
+</Project>
